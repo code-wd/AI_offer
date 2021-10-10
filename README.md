@@ -15,7 +15,7 @@
 - [ ] Normalization
 - [ ] 优化器
 - [x] 损失函数
-  - MAE, MSE, Huber Loss, Log-Cosh, Quantile, Hinge Loss, 交叉熵损失
+  - MAE, MSE, Huber Loss, Log-Cosh, Quantile, Hinge Loss, 交叉熵损失, Focal Loss
   - 分类 Loss 为什么用交叉熵不用 MSE
 
 - [ ] 评估指标
