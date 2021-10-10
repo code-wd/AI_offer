@@ -1,6 +1,8 @@
 # AI_offer【算法面试经典】
 > 这个项目主要用来总结**算法工程师面试**中常见的问题，期待能够帮助算法工程师们收获心仪的 offer
 
+注意：GitHub 本身不支持 LaTeX 公式，如果要在线看的话可以安装插件 [MathJax 3 Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod?utm_source=chrome-ntp-icon)，刷新之后就可以正常显示公式
+
 
 
 # 目录
