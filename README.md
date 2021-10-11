@@ -19,4 +19,6 @@
   - 分类 Loss 为什么用交叉熵不用 MSE
 
 - [ ] 评估指标
+- [ ] 激活函数
+  - Sigmoid，Tanh，ReLU，Leaky ReLU，ELU，GELU
 
