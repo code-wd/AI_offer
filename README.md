@@ -19,6 +19,10 @@
   - 分类 Loss 为什么用交叉熵不用 MSE
 
 - [ ] 评估指标
-- [ ] 激活函数
+- [x] 激活函数
   - Sigmoid，Tanh，ReLU，Leaky ReLU，ELU，GELU
+
+- [x] 梯度消失与梯度爆炸
+  - 解释原因
+  - 解决方案：合适的激活函数、Batch Norm、网络结构（ResNet，LSTM）、梯度裁剪
 
