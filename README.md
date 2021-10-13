@@ -13,7 +13,9 @@
 
 - [x] 正则化（L1，L2）
 - [ ] Normalization
-- [ ] 优化器
+- [x] 优化器
+  - 不同优化算法：SGD、SGDM、NAG、AdaGrad、RMSprop、Adam、NAdam、AdaMax、AMSGrad
+  - 优化算法效果可视化
 - [x] 损失函数
   - **MAE, MSE, Smooth L1 Loss**, Huber Loss, Log-Cosh, Quantile, Hinge Loss, **交叉熵损失, Focal Loss**
   - 分类 Loss 为什么用交叉熵不用 MSE
@@ -34,6 +36,7 @@
 
 - [ ] 决策树
 - [ ] 集成学习
+- [ ] SVM 
 
 
 
