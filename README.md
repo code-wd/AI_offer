@@ -36,7 +36,7 @@
 - [ ] 参数初始化方法
   - 权重初始化的方案（Xavier，kaiming_normal）
   - 神经网络权重初始化为零带来的影响
-- [ ] 模型压缩
+- [x] 模型压缩
 - [ ] 调参技巧【[参考地址](https://www.zhihu.com/question/29641737/answer/243982984)】
 
 
