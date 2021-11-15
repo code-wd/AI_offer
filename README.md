@@ -19,10 +19,11 @@
 - [x] 损失函数
   - **MAE, MSE, Smooth L1 Loss**, Huber Loss, Log-Cosh, Quantile, Hinge Loss, **交叉熵损失, Focal Loss**
   - 分类 Loss 为什么用交叉熵不用 MSE
-- [ ] 评估指标
-  - 不同任务下的评估指标 precision、recall、F1score、accuracy
-  - ROC、AUC、MAP
-  - auc公式是什么，如何一句话解释auc的含义，数据不平衡对auc有影响吗，还有什么指标可以针对不平衡数据。
+- [x] 评估指标
+  - 分类任务：准确率（Accuracy）、精确率（Precision）、召回率（Recall）、PR 曲线、F1 值、ROC 曲线、AUC、对数损失
+  - 回归任务：平均绝对误差（MAE）、均方误差（MSE）、均方根误差（RMSE）、归一化均方根误差（NRMSE）、决定系数（R2）
+  - 聚类任务：纯度、NMI、兰德系数、调整兰德系数
+  - 目标检测任务：IOU
 - [x] 激活函数
   - Sigmoid，Tanh，ReLU，Leaky ReLU，ELU，GELU
 - [x] 梯度消失与梯度爆炸
